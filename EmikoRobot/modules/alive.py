@@ -9,7 +9,7 @@ from EmikoRobot.events import register
 from EmikoRobot import telethn as tbot
 
 
-PHOTO = "https://telegra.ph/file/ddad9de7cf0f5a6ec125c.jpg"
+PHOTO = "https://telegra.ph/file/4128cd16e412f99095c97.jpg"
 
 @register(pattern=("/alive"))
 async def awake(event):
