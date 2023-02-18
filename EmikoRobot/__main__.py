@@ -82,7 +82,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Halo tod ngentod:v {} !*
+*Halo tod {} !*
 ✪ Ini bot untuk manage sama musikan d gc/ch lu ye tod [✨](https://telegra.ph/file/254df30aa6913d296abce.jpg)
 ────────────────────────
 × *Uptime:* `{}`
