@@ -89,7 +89,7 @@ PM_START_TEXT = """
 × `{}` *users, across* `{}` *chats.*
 ────────────────────────
 ✪ Klik aja tombol /help Biar lu kaga kebanyakan nanya.
-✪ Maintenence by @Lexanih
+✪ Maintenence by @CaIIMeZuka
 """
 
 buttons = [
